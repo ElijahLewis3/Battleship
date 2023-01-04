@@ -26,8 +26,6 @@ char player2Guess();//function that makes the second player guess the computers 
 char computerGuess();//function that makes the computer guess the user's ship location
 void printStars();
 
-//testttttt
-
 
 int main(){
     char repeat; //repeat variable that asks if they want to keep on playing
